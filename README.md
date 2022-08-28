@@ -22,3 +22,6 @@ To test ZFL on a different type of problem, we developed a recommendation system
 may be associated with different zones. In this case, we split the sequences per zone.
 #### dataset
 We used the [Gowalla](https://dl.acm.org/doi/10.1145/2661829.2662002) public data set for the activity recommendation program. Gowalla is a locationbased social network, in which people’s location is stored under an activity category
+
+# Supervisor
+this project has been done under supervision of [Dr. Cristian Borcea](https://web.njit.edu/~borcea/)
