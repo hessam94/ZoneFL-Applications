@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pythonML", "pythonML\pythonML.pyproj", "{BCE0B87A-C90A-43B2-BCFB-AA30EDD70D26}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DeepLearningTest", "..\DeepLearningTest\DeepLearningTest.pyproj", "{633258D9-8231-4152-B559-7B72164FE22E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE0B87A-C90A-43B2-BCFB-AA30EDD70D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE0B87A-C90A-43B2-BCFB-AA30EDD70D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633258D9-8231-4152-B559-7B72164FE22E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633258D9-8231-4152-B559-7B72164FE22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FF38EE7-F456-4E92-9AFD-0200504DF09B}
+	EndGlobalSection
+EndGlobal
